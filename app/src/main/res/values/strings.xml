@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Terrible Movie Search</string>
+    <string name="splash_tagline">Great movies. Questionable search engine.</string>
+    <string name="search_title">Movie Search</string>
+    <string name="search_subtitle">Search for a movie and discover its poster.</string>
+    <string name="search_hint">Enter a movie title</string>
+    <string name="search_button">Search</string>
+    <string name="search_helper">Powered by OMDb</string>
+    <string name="result_caption">FIRST MATCH</string>
+    <string name="back_button">Back to Search</string>
+    <string name="unknown_movie">Unknown movie</string>
+    <string name="poster_description">Movie poster</string>
+    <string name="movie_logo_description">Movie clapperboard logo</string>
+    <string name="error_empty_query">Enter a movie title first</string>
+    <string name="error_missing_key">OMDb API key is missing from local.properties</string>
+    <string name="error_no_movies">No movies found</string>
+    <string name="error_network">Network error, please try again</string>
+</resources>

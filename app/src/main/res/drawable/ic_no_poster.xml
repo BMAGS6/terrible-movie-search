@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="144dp" android:height="216dp"
+    android:viewportWidth="144" android:viewportHeight="216">
+    <path android:fillColor="@color/movie_surface" android:pathData="M0,0 L144,0 L144,216 L0,216 Z" />
+    <path android:fillColor="@color/movie_outline" android:pathData="M36,72 L108,72 L108,144 L36,144 Z" />
+    <path android:fillColor="@color/movie_background" android:pathData="M42,78 L102,78 L102,138 L42,138 Z" />
+    <path android:fillColor="@color/movie_muted" android:pathData="M49,129 L65,111 L74,120 L86,103 L95,129 Z" />
+    <path android:fillColor="@color/movie_gold" android:pathData="M45,82 L51,78 L99,134 L93,138 Z" />
+</vector>

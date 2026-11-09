@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="movie_background">#111827</color>
+    <color name="movie_surface">#1F2937</color>
+    <color name="movie_outline">#465267</color>
+    <color name="movie_text">#F9FAFB</color>
+    <color name="movie_muted">#CBD5E1</color>
+    <color name="movie_gold">#F6C453</color>
+    <color name="movie_gold_pressed">#E9AA28</color>
+    <color name="movie_ink">#1B2230</color>
+</resources>

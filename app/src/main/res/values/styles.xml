@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TerribleMovieSearch" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/movie_gold</item>
+        <item name="colorPrimaryDark">@color/movie_background</item>
+        <item name="colorAccent">@color/movie_gold</item>
+        <item name="android:statusBarColor">@color/movie_background</item>
+        <item name="android:navigationBarColor">@color/movie_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">@color/movie_background</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>

@@ -1,0 +1,3 @@
+# Copy this to local.properties and replace REPLACE_WITH_YOUR_KEY.
+# Android Studio may also add sdk.dir here.
+OMDB_API_KEY=REPLACE_WITH_YOUR_KEY
